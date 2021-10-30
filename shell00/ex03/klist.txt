@@ -1,0 +1,5 @@
+Credentials cache: API:765741A9-5796-4D4B-9501-CA1628E28568
+        Principal: tnaceur@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 16:13:40 2021  Aug  9 16:10:52 2021  krbtgt/1337.MA@1337.MA
